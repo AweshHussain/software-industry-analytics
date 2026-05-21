@@ -169,19 +169,19 @@ python app.py
 
 ### Awesh Hussain
 GitHub: https://github.com/AweshHussain  
-LinkedIn: https://www.linkedin.com/
+LinkedIn: https://www.linkedin.com/in/awesh06/
 
 ---
 
 ### SM Zaid Iqbal
-GitHub: https://github.com/  
-LinkedIn: https://www.linkedin.com/
+GitHub: https://github.com/Zaid007-dev 
+LinkedIn: https://www.linkedin.com/in/zaid007-dev/
 
 ---
 
 ### Syed Mohammad Sohaib Hussain
 GitHub: https://github.com/  
-LinkedIn: https://www.linkedin.com/
+LinkedIn: https://www.linkedin.com/in/smsohaibhussain/
 
 ---
 
