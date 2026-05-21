@@ -86,9 +86,7 @@ IBM-DASHBOARD/
 ├── ai-salary-frontend/  
 ├── backend/  
 ├── dashboard/  
-├── machine_learning/  
-├── README.md  
-└── .gitignore  
+├── README.md   
 
 ---
 
@@ -155,24 +153,35 @@ The ML model uses the same dataset integrated into Power BI dashboards to analyz
 cd ai-salary-frontend
 npm install
 npm run dev
+```
 
+## Backend
+
+```bash
 cd backend
 pip install -r requirements.txt
 python app.py
+```
+
+---
 
 # 👨‍💻 Developed By
 
-- Awesh Hussain  
-  GitHub: https://github.com/AweshHussain  
-  LinkedIn: https://www.linkedin.com/
+### Awesh Hussain
+GitHub: https://github.com/AweshHussain  
+LinkedIn: https://www.linkedin.com/
 
-- SM Zaid Iqbal  
-  GitHub: https://github.com/  
-  LinkedIn: https://www.linkedin.com/
+---
 
-- Syed Mohammad Sohaib Hussain  
-  GitHub: https://github.com/  
-  LinkedIn: https://www.linkedin.com/
+### SM Zaid Iqbal
+GitHub: https://github.com/  
+LinkedIn: https://www.linkedin.com/
+
+---
+
+### Syed Mohammad Sohaib Hussain
+GitHub: https://github.com/  
+LinkedIn: https://www.linkedin.com/
 
 ---
 
