@@ -122,13 +122,13 @@ IBM-DASHBOARD/
 ## 📊 Power BI Dashboard
 
 ### Golden Era Dashboard
-![AI Dashboard](screenshots/Dashboard Overview (2011 - 2019).png)
+![AI Dashboard](dashboard/screenshots/Dashboard%20Overview%20(2011%20-%202019).png)
 
 ### COVID - 19 Era Dashboard
-![COVID Dashboard](screenshots/Dashboard Overview (2020 - 2021).png)
+![COVID Dashboard](dashboard/screenshots/Dashboard%20Overview%20(2020%20-%202021).png)
 
 ### AI Era Dashboard
-![COVID Dashboard](screenshots/Dashboard Overview (2022 - 2025).png)
+![COVID Dashboard](dashboard/screenshots/Dashboard%20Overview%20(2022%20-%202025).png)
 
 ---
 
@@ -162,7 +162,7 @@ The ML model uses the same dataset integrated into Power BI dashboards to analyz
 ## 🤖 Machine Learning Web App
 
 ### ML Salary Prediction Interface
-![ML Interface](screenshots/ml-interface.png)
+![ML Interface](dashboard/screenshots/ml-interface.png)
 
 ---
 
