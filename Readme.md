@@ -195,7 +195,7 @@ LinkedIn: https://www.linkedin.com/in/awesh06/
 ---
 
 ### SM Zaid Iqbal
-GitHub: https://github.com/Zaid007-dev 
+GitHub: https://github.com/Zaid007-dev/
 LinkedIn: https://www.linkedin.com/in/zaid007-dev/
 
 ---
