@@ -117,6 +117,20 @@ IBM-DASHBOARD/
 - Growing demand for advanced technical skills
 
 ---
+# 📸 Project Screenshots
+
+## 📊 Power BI Dashboard
+
+### Golden Era Dashboard
+![AI Dashboard](screenshots/Dashboard Overview (2011 - 2019).png)
+
+### COVID - 19 Era Dashboard
+![COVID Dashboard](screenshots/Dashboard Overview (2020 - 2021).png)
+
+### AI Era Dashboard
+![COVID Dashboard](screenshots/Dashboard Overview (2022 - 2025).png)
+
+---
 
 # 🤖 Machine Learning Integration
 
@@ -142,6 +156,13 @@ The ML model uses the same dataset integrated into Power BI dashboards to analyz
 ✅ React + Flask web application  
 ✅ Real-world datasets  
 ✅ Trend forecasting  
+
+---
+
+## 🤖 Machine Learning Web App
+
+### ML Salary Prediction Interface
+![ML Interface](screenshots/ml-interface.png)
 
 ---
 
